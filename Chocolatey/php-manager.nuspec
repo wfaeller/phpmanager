@@ -3,8 +3,8 @@
   <metadata>
     <id>php-manager</id>
     <title>PHP Manager 2 for IIS</title>
-    <version>2.12.0</version>
-    <authors>Lex Li, Alexandre Mutel, and other contributors</authors>
+    <version>2.13.0</version>
+    <authors>Wolfgang Faeller</authors>
     <owners>Ruslan Yakushev</owners>
     <summary>The ultimate toolbox to configure PHP on Windows and IIS.</summary>
     <description>PHP Manager for IIS is a GUI for managing multiple PHP installations on the IIS server.</description>
